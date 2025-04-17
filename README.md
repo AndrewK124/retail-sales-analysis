@@ -6,7 +6,7 @@ In this project, I crafted a comprehensive analysis of a retail sales dataset us
 
 ## Dataset Explanation 
 
-- Source [Retail Sales Dataset from Kaggle](https://www.kaggle.com/datasets/mohammadtalib786/retail-sales-dataset)
+- Source: [Retail Sales Dataset from Kaggle](https://www.kaggle.com/datasets/mohammadtalib786/retail-sales-dataset)
 - Originally a CSV, converted to .xlsx for analysis
 - Columns:
   - Transaction ID

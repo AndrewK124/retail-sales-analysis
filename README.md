@@ -4,6 +4,11 @@ In this project, I crafted a comprehensive analysis of a retail sales dataset us
 
 -----
 
+## Dashboard
+![image](https://github.com/user-attachments/assets/0f287340-78bf-475d-809b-75d356ab222d)
+
+-----
+
 ## Dataset Explanation 
 
 - Source: [Retail Sales Dataset from Kaggle](https://www.kaggle.com/datasets/mohammadtalib786/retail-sales-dataset)

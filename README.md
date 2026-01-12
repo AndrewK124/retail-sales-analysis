@@ -5,7 +5,7 @@ In this project, I crafted a comprehensive analysis of a retail sales dataset us
 -----
 
 ## Dashboard
-![image](https://github.com/user-attachments/assets/0f287340-78bf-475d-809b-75d356ab222d)
+<img width="1728" height="729" alt="image" src="https://github.com/user-attachments/assets/fb9c532d-d9c4-47e8-92c9-dd1ce817f494" />
 
 -----
 
@@ -26,7 +26,7 @@ In this project, I crafted a comprehensive analysis of a retail sales dataset us
 
 -----
 
-## My Deeds
+## What I've done
 
 1. Initial Setup:
    - Downloaded and converted .csv to .xlsx

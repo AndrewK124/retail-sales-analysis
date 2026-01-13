@@ -5,7 +5,12 @@ In this project, I crafted a comprehensive analysis of a retail sales dataset us
 -----
 
 ## Dashboard
-<img width="1727" height="730" alt="image" src="https://github.com/user-attachments/assets/dc9cf0b9-4607-447a-8374-7a277a76c906" />
+![image](<img width="1728" height="729" alt="retail sales dashboard screenshot" src="https://github.com/user-attachments/assets/c1123a90-cf4c-47cc-8e12-923b06decb70" />)
+
+
+
+
+
 
 
 -----

@@ -27,11 +27,11 @@ In this project, I crafted a comprehensive analysis of a retail sales dataset us
 
 -----
 
-## What I've done
+## What I did
 
 1. Initial Setup:
    - Downloaded and converted .csv to .xlsx
-   - Created a duplicated of the original data into a "Working Sheet" for analysis
+   - Created a duplicate of the original data into a "Working Sheet" for analysis
 
 2. Data Cleaning and Preparation
    - Reformatted "Price per Unit" and "Total Amount" from general format to Currency format
